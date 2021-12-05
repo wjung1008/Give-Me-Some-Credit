@@ -1,5 +1,6 @@
 # Give-Me-Some-Credit
 - Data Scientist Position Assignment
+- Built based on Google Colab (.py version also available)
 
 ## Data was acquired from Kaggle
 - https://www.kaggle.com/c/GiveMeSomeCredit/data
